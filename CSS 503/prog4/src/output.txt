@@ -1,0 +1,12 @@
+[Test: type = 1, nbufs = 15, bufsize = 100]: time = 308928 usec, #reads = 22721, throughput = 0.77688 Gbps
+[Test: type = 2, nbufs = 15, bufsize = 100]: time = 50290.1 usec, #reads = 20224, throughput = 4.77231 Gbps
+[Test: type = 3, nbufs = 15, bufsize = 100]: time = 44475.8 usec, #reads = 20159, throughput = 5.39619 Gbps
+[Test: type = 1, nbufs = 30, bufsize = 50]: time = 597746 usec, #reads = 24815, throughput = 0.401509 Gbps
+[Test: type = 2, nbufs = 30, bufsize = 50]: time = 74649.4 usec, #reads = 21152, throughput = 3.21503 Gbps
+[Test: type = 3, nbufs = 30, bufsize = 50]: time = 42110.4 usec, #reads = 20171, throughput = 5.6993 Gbps
+[Test: type = 1, nbufs = 60, bufsize = 25]: time = 1.18013e+06 usec, #reads = 29298, throughput = 0.203367 Gbps
+[Test: type = 2, nbufs = 60, bufsize = 25]: time = 124246 usec, #reads = 22012, throughput = 1.93165 Gbps
+[Test: type = 3, nbufs = 60, bufsize = 25]: time = 43078.5 usec, #reads = 20194, throughput = 5.57122 Gbps
+[Test: type = 1, nbufs = 100, bufsize = 15]: time = 1.93504e+06 usec, #reads = 33820, throughput = 0.124028 Gbps
+[Test: type = 2, nbufs = 100, bufsize = 15]: time = 185317 usec, #reads = 21739, throughput = 1.29508 Gbps
+[Test: type = 3, nbufs = 100, bufsize = 15]: time = 44234.6 usec, #reads = 20161, throughput = 5.42562 Gbps
